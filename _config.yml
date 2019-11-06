@@ -12,14 +12,14 @@ profile-link: https://mdbootstrap.com/img/Photos/Others/photo6.jpg
 avatar-link: https://github.githubassets.com/images/modules/logos_page/Octocat.png
 name: Sudha Ravi Kumar Javvadi
 title: Programmer
-caption: 2nd year Master's Student at Oregon State University actively looking for software fulltime or internship opportunities in the field of Computer Vision, Natural Language Processing, or Machine Learning.
+caption: 2nd year Master's Student at Oregon State University actively looking for software intensive full-time opportunities in the field of Computer Vision, Natural Language Processing, or Machine Learning.
 
 #######################
 # Attachment settings #
 #######################
 
 attachment-text: Resume
-attachment-link: https://drive.google.com/file/d/1CZDbjT3MqZBo6k3ZUIvth-y-tyBlFK-k/view?usp=sharing
+attachment-link: https://drive.google.com/file/d/1CZDbjT3MqZBo6k3ZUIvth-y-tyBlFK-k/view
 
 ################
 # Social Links #
@@ -32,5 +32,5 @@ github: https://github.com/sudharkj
 # Page Details #
 ################
 
-show-table-of-contents: true
-landing-page-order: posts/projects.md
+show-table-of-contents: false
+landing-page-order: posts/education.md, posts/work-experience.md, posts/projects.md, posts/other-projects.md
