@@ -2,14 +2,11 @@
 
 ###### [Highlight Extractor](https://github.com/highlight-extractor) [MS Capstone] 
 
-* The web-application will suggest best moments in a video taken 
-during a bike ride.
-* One of the approaches to decide a good summary related scene 
-is a frame with good color-histogram.
-* Exploring the tagging feature of GoPro camera to generate data 
-for semi-supervised way of extracting the frames.
+* The web-application will suggest best moments in a video taken during a bike ride.
+* It uses NIMA technical model to get good images within each scene and then uses asthetic model to score them.
+* Currently exploring the tagging feature of GoPro to generate data for semi-supervised way of extracting the frames.
 
-*Technologies:* Python, OpenCV, PyTorch
+*Technologies:* Flask, OpenCV, Tensorflow, React, Typescript
 
 ###### [Poster Decoder](https://github.com/poster-decoder) [Course Project] 
 

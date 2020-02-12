@@ -8,8 +8,8 @@ remote_theme: sudharkj/material-jekyll
 # Site settings #
 #################
 
-profile-link: https://mdbootstrap.com/img/Photos/Others/photo6.jpg
-avatar-link: https://github.githubassets.com/images/modules/logos_page/Octocat.png
+profile-color: indigo
+avatar-link: https://avatars3.githubusercontent.com/u/8425883
 name: Sudha Ravi Kumar Javvadi
 title: Programmer
 caption: 2nd year Master's Student at Oregon State University actively looking for software intensive full-time opportunities in the field of Computer Vision, Natural Language Processing, or Machine Learning.
@@ -33,4 +33,4 @@ github: https://github.com/sudharkj
 ################
 
 show-table-of-contents: false
-landing-page-order: posts/education.md, posts/work-experience.md, posts/projects.md, posts/other-projects.md
+landing-page-order: posts/projects.md, posts/other-projects.md
